@@ -6,6 +6,7 @@ public class A {
 	 // hihi
 // zirkus
 //		snova commt
+		
 	}
 
 }
